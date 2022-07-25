@@ -4,9 +4,9 @@ I'm a full-stack software developer with a background in data analysis. I have a
 
 - 📜 I'm currently working on completing my full-stack certification from Boise CodeWorks. And I plan to continue to learn new technologies and solutions going forward.
 
-- 🌳 I'm decently good with the following: HTML - CSS - JavaScript - Bootstrap - Tailwind - Vue.js - Node.js - Express.js - Python - SQL - MVCS Patterns - Tableau
+- 🌳 I'm decently good with the following: HTML - CSS - JavaScript - Bootstrap - Tailwind - Vue.js - Node.js - Express.js - Axios - Python - SQL - MVCS Patterns - Tableau
 
-- 🗻 I'm eager to learn and use these: Nuxt.js - C#/.NET - Swift - embedded C - Verilog
+- 🗻 I'm eager to learn and use these: Nuxt.js - Go - C#/.NET - Swift - embedded C - Verilog
 
  - 💬 Feel free to reach out to me!
 
