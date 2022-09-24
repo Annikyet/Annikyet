@@ -1,12 +1,12 @@
 Hi, I'm Annika 👩🏼‍💻
 
-I'm a full-stack software developer with a background in data analysis. I have a passion for good design and elegant solutions to problems. I'm always thinking about how to make UX better, and how to optimize everything for maximum efficiency. I feel a deep connection to the natural world and am deeply greatful for mother nature.
+I'm a full-stack software developer with a background in data analysis. I have a passion for good design and elegant solutions to problems. I'm always thinking about how to make better, more accessible UX, and how to write clean, readable and efficient code. I feel a deep connection to the natural world and am deeply greatful for mother nature.
 
-- 📜 I'm currently working on completing my full-stack certification from Boise CodeWorks. And I plan to continue to learn new technologies and solutions going forward.
+- 📜 I've successfully completed my full-stack certification from Boise CodeWorks, but I am always learning new technologies, ideas and solutions.
 
-- 🌳 I'm decently good with the following: HTML - CSS - JavaScript - Bootstrap - Tailwind - Vue.js - Node.js - Express.js - Axios - Python - SQL - MVCS Patterns - Tableau
+- 🌳 I'm decently good with the following: HTML - CSS - JavaScript - Bootstrap - Tailwind - Vue.js - Node.js - Express.js - Axios - Python - SQL - MVCS Patterns - Tableau - C#/.NET
 
-- 🗻 I'm eager to learn and use these: Nuxt.js - Go - C#/.NET - Swift - embedded C - Verilog
+- 🗻 I'm eager to learn and use these: Nuxt.js - Go - React.js - Swift - embedded C - Verilog
 
  - 💬 Feel free to reach out to me!
 
