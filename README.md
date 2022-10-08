@@ -11,8 +11,3 @@ I'm a full-stack software developer with a background in data analysis. I have a
  - 💬 Feel free to reach out to me!
 
   - 📸 Fun fact: I'm a total hipster at heart and love learning about and using vintage cameras and computers
-
-I leave you with the words of Carl Sagan:
-  ```
-  The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.
-  ```
